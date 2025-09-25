@@ -1,1 +1,1 @@
-The report on the verification of the DDRAGUITO detector in the laboratory.
+The report on the laboratory verification of the DDRAGUITO detector.
